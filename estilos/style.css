@@ -30,6 +30,15 @@ img.lado {
 }
 
 @media screen and (max-width: 768px){
-    
+    main {
+        background-color: #fff;
+        width: 85%;
+        margin: auto;
+        padding: 10px;
+        box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.582);
+    }
+    #imgprincipal{
+        width: 60%;
+    }
     
 }
